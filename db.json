@@ -1,0 +1,32 @@
+{
+  "profiles" : [
+    {
+      "fName" : "calvin",
+      "lname" : "Arieri",
+      "d.O.B" : "02-05-2004",
+      "location" :"Nairobi",
+      "interest" : "Gaming",
+      "minAge" : 18,
+      "maxAge" : 25,
+      "photo" : "",
+      "userName": "calvin_arieri",
+      "gender" : "male",
+      "pGender": "female",
+      "type": "Long-term",
+      "email": "morebucalvin@gmail",
+      "password": "************",
+      "id" : 1
+    }
+  ],
+  "posts" :[
+    {
+      "userName" :"calvin_arieri",
+      "caption":"Looks good",
+      "media" : "",
+      "likes" : 3000,
+      "dislike" : 0,
+      "comment":[],
+      "id": 1
+    }
+  ]
+}
