@@ -19,6 +19,24 @@
       "id": 1
     },
     {
+      "fName": "MARTIN",
+      "lname": "JAMES",
+      "d.O.B": "02-05-2004",
+      "age": "24",
+      "location": "NAIROBI",
+      "interest": "COOKING",
+      "minAge": 20,
+      "maxAge": 25,
+      "photo": "https://bit.ly/3LyUnWw",
+      "userName": "marto",
+      "gender": "female",
+      "pGender": "male",
+      "type": "long-term",
+      "email": "natashanderitu@gmail.com",
+      "password": "************",
+      "id": 1
+    },
+    {
       "fName": "Faith",
       "lname": "Otieno",
       "age": "26",
@@ -35,23 +53,7 @@
       "password": "************",
       "id": 2
     },
-    {
-      "fName": "Martin",
-      "lname": "Otieno",
-      "age": "26",
-      "location": "NAIROBI",
-      "interest": "PARTYING",
-      "minAge": 18,
-      "maxAge": 30,
-      "photo": "https://bit.ly/3LyUnWw",
-      "userName": "martootis",
-      "gender": "male",
-      "pGender": "female",
-      "type": "long-term",
-      "email": "martinotieno@gmail.com",
-      "password": "https://facebook.com",
-      "id": 2
-    },
+
     {
       "fName": "Calvin",
       "lname": "Arieri",
