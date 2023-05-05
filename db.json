@@ -22,7 +22,6 @@
       "fName": "Faith",
       "lname": "Otieno",
       "age": "26",
-      "d.O.B": "02-05-2004",
       "location": "NAIROBI",
       "interest": "PARTYING",
       "minAge": 18,
@@ -30,10 +29,27 @@
       "photo": "https://rb.gy/70l81",
       "userName": "faithotieno",
       "gender": "female",
-      "pGender": "female",
+      "pGender": "male",
       "type": "long-term",
       "email": "faithotieno@gmail.com",
       "password": "************",
+      "id": 2
+    },
+    {
+      "fName": "Martin",
+      "lname": "Otieno",
+      "age": "26",
+      "location": "NAIROBI",
+      "interest": "PARTYING",
+      "minAge": 18,
+      "maxAge": 30,
+      "photo": "https://bit.ly/3LyUnWw",
+      "userName": "martootis",
+      "gender": "male",
+      "pGender": "female",
+      "type": "long-term",
+      "email": "martinotieno@gmail.com",
+      "password": "https://facebook.com",
       "id": 2
     },
     {
@@ -363,17 +379,6 @@
       "email": "dianachepchumba@example.com",
       "password": "************",
       "id": 20
-    }
-  ],
-  "posts" :[
-    {
-      "userName" :"calvin_arieri",
-      "caption":"Looks good",
-      "media" : "https://i.pinimg.com/736x/9b/0c/4a/9b0c4ae78cdadc242d26e993843e183d.jpg",
-      "likes" : 3000,
-      "dislike" : 0,
-      "comment":[{"name":"calvin_arieri","say":"You look smart"},{"name":"james peter","say":"excelent looks"}],
-      "id": 1
     }
   ]
 }
